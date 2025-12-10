@@ -1,0 +1,21 @@
+{
+  "name": "rules-migrate",
+  "description": "Migrate monolithic CLAUDE.md files to modular .claude/rules/ directory structure",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lisa Ross",
+    "email": "lisa@makably.com"
+  },
+  "homepage": "https://github.com/lisaross/claude-code-plugins",
+  "repository": "https://github.com/lisaross/claude-code-plugins",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "rules",
+    "migration",
+    "refactoring",
+    "CLAUDE.md",
+    "modular",
+    "configuration"
+  ]
+}

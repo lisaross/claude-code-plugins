@@ -1,0 +1,20 @@
+{
+  "name": "lisaross",
+  "description": "Lisa Ross's Claude Code plugin marketplace",
+  "owner": {
+    "name": "Lisa Ross",
+    "email": "lisa@makably.com"
+  },
+  "plugins": [
+    {
+      "name": "rules-migrate",
+      "description": "Migrate monolithic CLAUDE.md files to modular .claude/rules/ directory structure",
+      "version": "1.0.0",
+      "source": "./rules-migrate",
+      "author": {
+        "name": "Lisa Ross",
+        "email": "lisa@makably.com"
+      }
+    }
+  ]
+}
